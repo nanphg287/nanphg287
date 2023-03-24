@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hello world 👋, my name is Lan Phuong
+#### You can call me Nanghihi because I'm always hihi.
+![You can call me Nanghihi because I'm always hihi.](https://thumbs.dreamstime.com/b/black-white-abstract-computer-code-programming-background-cyberspace-concept-180554139.jpg)
 
-I'm Lan Phuong, you can call me Nanghihi because I'm always hihi ^-^
 Now I am an IT student, next year I will graduate.
 I love to learn, and explore new things, also interested in technology news.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanphg287&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+Skills: C/ C++/ C#/ JAVA / PYTHON/ JS / HTML / CSS/ PHP/ SQL
+
+
+
+
+
+
