@@ -42,7 +42,7 @@ I love to learn, and explore new things, also interested in technology news.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='30'>](https://www.tiktok.com/@nanphghihi)  
 
 ## 🌝 Profile Views
-![Profile views](https://gpvc.arturio.dev/nanphg287)  
+![](https://komarev.com/ghpvc/?username=nanphg287&color=ff69b4&style=for-the-badge)
 
 ## 📊 GitHub Stats
 <table>
